@@ -10,7 +10,7 @@ Aqui está nosso trabalho, uma atividade prática de Git e GitHub. Este projeto 
 ## 👥 Integrantes e Contribuições
 * **Mateus:** Criou o repositório base e configurou a estrutura inicial do projeto.
 * **Dinor:** Adicionou a funcionalidade de listagem na branch individual.
-* **João H:** Criou o arquivo de texto com as anotações da aula de Git.
+* **João W:** Criou o arquivo de texto com as anotações da aula de Git.
 * **Davi e Joao Rigo:** Fez a revisão dos arquivos e organizou o histórico de commits.
 ## 📝 Objetivo
 Aprendendo mais sobre versionamento de código com repositórios compartilhados.
