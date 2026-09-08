@@ -1,7 +1,7 @@
 # atividade-design-profissional
 aqui está meu trabalho, minha atividade de git e github,
 Projeto desenvolvido para praticar o uso de repositórios,commits e colaborações no github.
-# Projeto de Design Profissional - Integrantes: Mateus, Dinor, João H., Davi, Joao Rigo
+# Projeto de Design Profissional - Integrantes: Mateus, Dinor, João W., Davi, Joao Rigo
 Aprendendo mais sobre git e github com repositorios
 # Atividade: Design Profissional
 
