@@ -14,3 +14,4 @@ Aqui está nosso trabalho, uma atividade prática de Git e GitHub. Este projeto 
 * **Davi e Joao Rigo:** Fez a revisão dos arquivos e organizou o histórico de commits.
 ## 📝 Objetivo
 Aprendendo mais sobre versionamento de código com repositórios compartilhados.
+## Tecnologias usadas - Git - GitHub
